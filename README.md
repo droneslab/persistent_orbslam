@@ -1,3 +1,8 @@
+# Persistent-ORB-SLAM
+**Authors:** [Zakieh S Hashemifar](http://www.buffalo.edu/~zakiehsa), [Karthik Dantu](https://cse.buffalo.edu/faculty/kdantu/)
+
+Persistent-ORB-SLAM is an extended version of ORB-SLAM which incorporates persistence estimation for features to evaluate their existence in the environment over time and removes the features which are not available anymore. This new features makes ORB_SLAM a better fit for dynamic environments and over long runs.
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
